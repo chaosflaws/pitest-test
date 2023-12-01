@@ -3,7 +3,3 @@ plugins {
 
     id 'org.gradlex.java-module-testing' version '1.2.2'
 }
-
-dependencies {
-    testImplementation 'org.junit.jupiter:junit-jupiter-api:5.8.1'
-}
